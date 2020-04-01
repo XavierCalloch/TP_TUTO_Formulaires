@@ -1,0 +1,27 @@
+.carousel-indicators li {
+	background-color: DimGray;
+}
+
+.carousel-indicators>.active {
+	background-color: silver;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	background-color: silver;
+}
+
+#cardtitle1 {
+	font-size: 20px;
+}
+
+#cardtitle2 {
+	font-size: 20px;
+}
+
+#cardtext1 {
+	text-align: justify;
+}
+
+#cardtext2 {
+	text-align: justify;
+}
